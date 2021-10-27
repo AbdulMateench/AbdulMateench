@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdulMateen
-- 👀 I’m interested in ML also, a daya scientist and statistician. 
+- 👀 I’m interested in ML also, a passionate data scientist and statistician. 
 - 🌱 I’m currently learning meachine learning
 - 💞️ I’m looking to collaborate on explainable artificial inteligence models
 - 📫 DM @ abdulamteench5@gmail.com
